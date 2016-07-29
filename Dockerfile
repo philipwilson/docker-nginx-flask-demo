@@ -1,7 +1,5 @@
 FROM nginx:1.11.1-alpine
 
-MAINTAINER DL-TechResearchDevelopment <DL-TechResearchDevelopment@thehutgroup.com>
-
 ENV FLASK_HOME /usr/share/flask
 
 ENV NGINX_HOME /usr/share/nginx/html
