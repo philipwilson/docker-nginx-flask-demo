@@ -1,4 +1,3 @@
-#FROM artifactory.io.thehut.local:5000/nginx:1.11.1-thg-alpine
 FROM nginx:1.11.1-alpine
 
 MAINTAINER DL-TechResearchDevelopment <DL-TechResearchDevelopment@thehutgroup.com>
