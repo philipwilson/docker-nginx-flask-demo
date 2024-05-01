@@ -9,4 +9,4 @@ pycparser==2.14
 requests==2.20.0
 six==1.10.0
 Werkzeug==0.15.3
-uwsgi==2.0.13.1
+uwsgi==2.0.25.1
